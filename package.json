@@ -7,5 +7,5 @@
   },
   "author": "Shamim Bin Nur",
   "license": "MIT",
-  "description": "A promise based http client built on top of XMLHttpRequest"
+  "description": "A promise based HTTP client built on top of XMLHttpRequest"
 }
