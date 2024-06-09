@@ -1,4 +1,4 @@
-function oxios (
+function ohey (
   endpoint,
   { 
     method = "GET",
@@ -49,4 +49,4 @@ function oxios (
   });
 };
 
-module.exports = oxios;
+module.exports = ohey;

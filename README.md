@@ -1,1 +1,1 @@
-# Oxios : A promise based HTTP client built on top of XMLHttpRequest.
+# Ohey : A promise based HTTP client built on top of XMLHttpRequest.
