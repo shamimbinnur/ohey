@@ -5,9 +5,13 @@ Ohey is a promise-based JavaScript library built on top of XMLHttpRequest. It si
 
 
 ## Installation
+```bash
+npm i ohey
+```
 
+## Import using ES6 modules
 ```javascript
-import ohey from 'path/to/ohey.js';
+import ohey from 'ohey';
 ```
 
 ## Usage
